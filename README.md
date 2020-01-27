@@ -4,7 +4,7 @@
 ### run
 * `node main.js`
 
-<h3> Passando os dados de acesso do usuario criado no Sandbox<h3/>
+<h3> Passando os dados de acesso do usuario criado no Sandbox</h3>
 
 ```javascript
 Paypal.configure({
@@ -12,10 +12,9 @@ Paypal.configure({
     "client_id": "AV5gNDR98cYs7XiTztkS8WIcAQXiUsqbwe7AKtpU-pNbjM0UHORMmDECQs3fXd__aUf3fnpAPpyo8wa8",
     "client_secret": "EDgK4xWLPuPfHImQN26rbJhTaFw47mSry-O-zzn2Z4BFXJrNHMRfuHK3B05G-v_ojjoiYrDy9sEXYYZK"
 })
-
 ```
 
-<h3>Configurando o json de pagamento<h3/>
+<h3>Configurando o json de pagamento</h3>
 
 ```javascript
 const json_payment = {
