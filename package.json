@@ -1,0 +1,11 @@
+{
+  "name": "model-api-paypal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Deyvison Borges",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
