@@ -9,8 +9,8 @@
 ```javascript
 Paypal.configure({
     "mode": "sandbox",
-    "client_id": "AV5gNDR98cYs7XiTztkS8WIcAQXiUsqbwe7AKtpU-pNbjM0UHORMmDECQs3fXd__aUf3fnpAPpyo8wa8",
-    "client_secret": "EDgK4xWLPuPfHImQN26rbJhTaFw47mSry-O-zzn2Z4BFXJrNHMRfuHK3B05G-v_ojjoiYrDy9sEXYYZK"
+    "client_id": "   ",
+    "client_secret": "   "
 })
 ```
 
